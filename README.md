@@ -1,2 +1,2 @@
 # serial-todo-manager
-A project to interactively project your TODOs onto an external LCD display using a TIVA development board and UART communication over bluetooth
+In this project, we used IAR embedded workbench to write a UART driver. Then in conjunction with drivers for an LCD display, we used it to display an interactive todo list, managing the state of each TODO through a connected python script.

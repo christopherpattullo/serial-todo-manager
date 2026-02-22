@@ -1,0 +1,28 @@
+# IAR Embedded Workbench generated build output
+**/Debug/
+**/Release/
+**/Obj/
+**/List/
+**/Exe/
+
+# IAR generated intermediate/dependency files
+*.dep
+*.pbi
+*.pbd
+*.linf
+*.xcl
+
+# IAR debug/workspace machine-local settings
+**/settings/
+*.ewd
+*.dbgdt
+*.wsdt
+*.dnx
+*.crun
+*.cspy.bat
+*.cspy.ps1
+
+# OS/editor noise
+Thumbs.db
+.DS_Store
+*~
